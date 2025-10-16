@@ -1,7 +1,7 @@
 
 # Lista duplamente encadeada circular
 
-Implementação de árvore binária para praticar os conceitos de estrutura de dados.
+Implementação de lista duplamente encadeada circular para praticar os conceitos de estrutura de dados.
 
 
 ## Autores
